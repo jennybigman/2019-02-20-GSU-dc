@@ -5,9 +5,9 @@ venue: "FIXME"        # Georgia Southern University
 address: "FIXME"      # Room XXX, 1332 Southern Dr, Statesboro, GA 30458, USA
 country: "FIXME"      # USA
 language: "FIXME"     # en
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+latlng: "FIXME"       # (33.7531° N, 84.3853° W)
+humandate: "FIXME"    # Feb 20-21, 2019
+humantime: "FIXME"    # 9:00 am - 4:30 pm
 startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
