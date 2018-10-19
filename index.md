@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "FIXME"    # dc
-venue: "FIXME"        # Georgia Southern University
+venue: "Georgia Southern University"        # Georgia Southern University
 address: "FIXME"      # Room XXX, 1332 Southern Dr, Statesboro, GA 30458, USA
 country: "FIXME"      # USA
 language: "FIXME"     # en
